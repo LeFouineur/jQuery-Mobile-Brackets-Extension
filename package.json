@@ -1,10 +1,11 @@
 {
-	"name": "chrisgriffith.jqmbrackets",
+	"name": "LeFouineur.jqmbrackets",
 	"title": "jQuery Mobile",
 	"description": "Code hinting for jQuery Mobile.",
 	"homepage": "http://jqmbrackets.org/",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"author": "Chris Griffith <chris.griffith@gmail.com> (http://aj-software.com)",
+    "contributors": { "LeFouineur <lefouineur@gmail.com> (https://github.com/LeFouineur/jQuery-Mobile-Brackets-Extension)" },
 	"license": "ClearBSD",
 	"engines": {
 		"brackets": ">=0.25.0"
