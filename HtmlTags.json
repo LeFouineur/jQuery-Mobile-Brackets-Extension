@@ -1,5 +1,5 @@
 {     
-    "a":          { "attributes": ["href", "hreflang", "media", "rel", "target", "type", "data-corners", "data-direction", "data-icon", "data-iconpos", "data-iconshadow", 
+    "a":          { "attributes": ["href", "hreflang", "media", "rel", "target", "type", "data-ajax", "data-corners", "data-direction", "data-icon", "data-iconpos", "data-iconshadow", 
 									"data-inline", "data-rel", "data-role", "data-theme", "data-transition"] },
     "abbr":       { "attributes": [] },
     "address":    { "attributes": [] },
